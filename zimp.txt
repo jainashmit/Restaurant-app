@@ -1,0 +1,17 @@
+restaurant_app/
+├── lib/
+│   ├── models/
+│   │   ├── cuisine.dart
+│   │   ├── dish.dart
+│   │   └── cart_item.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── cuisine_screen.dart
+│   │   └── cart_screen.dart
+│   ├── services/
+│   │   └── api_service.dart
+│   ├── utils/
+│   │   ├── constants.dart
+│   │   └── translations.dart
+│   └── main.dart
+├── pubspec.yaml
