@@ -1,16 +1,56 @@
-# restaurant_app
+# 🍽️ Restaurant Management App (Flutter)
 
-A new Flutter project.
+A Flutter-based **Restaurant Management Application** built as part of a company assignment. The app consists of three main screens – **Home**, **Cuisine**, and **Cart** – and allows users to place food orders with a confirmation message. Clean UI, smooth navigation, and modular code structure make this project scalable and easy to understand.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Home Screen**  
+  Browse available cuisines categories and discover popular dishes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🍛 **Cuisine Screen**  
+  View a list of food items based on selected cuisine category.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🛒 **Cart Screen**  
+  Add or remove items, view total cost, and place the order.
+
+- ✅ **Order Confirmation**  
+  Displays a confirmation message after successful order placement.
+
+---
+
+## 🎯 Technologies Used
+
+- **Flutter** (Dart)
+- **API Integration** 
+- **Modular UI Components**
+- **Responsive Layouts**
+
+---
+
+## 📷 UI Reference
+
+- View all the screen designs and UI references inside the **`ReferenceSS/` folder**.
+- Screenshots demonstrate the layout of the application.
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- Flutter SDK (version ≥ 3.0.0)
+- Android Studio / VS Code
+- Android/iOS Emulator or a physical device
+
+### 🔧 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/restaurant-management-flutter.git
+
+# Get all dependencies
+flutter pub get
+
+# Run the app
+flutter run
